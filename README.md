@@ -32,4 +32,5 @@ Desarrollaremos cada una de las funcionalidades en código explicado al detalle 
 
 - Estructuras de Datos Dinámicas Lineales (Listas, Pilas y Colas)
 
+
 - Estructuras de Datos Dinámicas No Lineales (Árboles)
